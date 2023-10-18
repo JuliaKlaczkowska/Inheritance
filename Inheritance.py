@@ -154,7 +154,7 @@ Player.play(p1)
 Player.play(pd1)
 Player.play(c1)
 
-ms1.name = "Niezywkła Podróż"
+ms1.name = "An Unexpected Journey"
 
 Player.play(ms1)
 
